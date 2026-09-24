@@ -14,10 +14,10 @@ Convierto datos operativos, financieros y de proceso en dashboards, reportes y m
 ### 📊 Proyectos destacados
 | Proyecto | Qué resuelve | Herramientas |
 |---|---|---|
-| [Desempeño logístico de e-commerce](https://github.com/317267974/logistica-ecommerce-sql-powerbi) | Dashboard de Power BI con SQL: dónde y por qué se retrasan 96,018 entregas y cuánto afecta a la satisfacción del cliente | SQL (MySQL), Power BI, DAX |
-| [Precio de la tortilla en México](https://github.com/317267974/Tortilla) | Tendencia, diferencias por estado y pronóstico SARIMA del precio de la tortilla (2007–2026) | R, modelos mixtos, GAM, SARIMA |
-| [Análisis de calidad de vino](https://github.com/317267974/WINE) | Identifica qué variables químicas determinan la calidad de 1,018 vinos y propone un rango objetivo de alcohol para producción | Python, Excel, pruebas de hipótesis |
-| [Predicción de enfermedad cardíaca](https://github.com/317267974/Cardiovascular-disease-) | Modelo de regresión logística que predice enfermedad cardíaca con AUC de 0.76 | Python, statsmodels, scikit-learn |
+| [Desempeño logístico de e-commerce](https://github.com/miguelguillenh/logistica-ecommerce-sql-powerbi) | Dashboard de Power BI con SQL: dónde y por qué se retrasan 96,018 entregas y cuánto afecta a la satisfacción del cliente | SQL (MySQL), Power BI, DAX |
+| [Precio de la tortilla en México](https://github.com/miguelguillenh/Tortilla) | Tendencia, diferencias por estado y pronóstico SARIMA del precio de la tortilla (2007–2026), con error de 0.17% (MAPE) | R, modelos mixtos, GAM, SARIMA |
+| [Análisis de calidad de vino](https://github.com/miguelguillenh/WINE) | Identifica qué variables químicas determinan la calidad de 1,018 vinos y propone un rango objetivo de alcohol para producción | Python, Excel, pruebas de hipótesis |
+| [Predicción de enfermedad cardíaca](https://github.com/miguelguillenh/Cardiovascular-disease-) | Modelo de regresión logística que predice enfermedad cardíaca con AUC de 0.76 | Python, statsmodels, scikit-learn |
 
 ### 🎓 Formación actual
 Diploma en Ciencia de Datos, Facultad de Química, UNAM (2026)
